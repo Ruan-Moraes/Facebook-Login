@@ -1,12 +1,11 @@
 * {
-    -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: transparent;
 }
 
 @media screen and (min-width: 64rem) {
-    .img-other {
-        position: relative;
-        left: -8rem;
-        bottom: -1rem;
-    }
+  .img-other {
+    position: relative;
+    left: -6rem;
+    bottom: 1.5rem;
+  }
 }
-

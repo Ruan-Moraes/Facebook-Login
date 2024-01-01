@@ -1,5 +1,6 @@
 # Tela de Login do Facebook com Tailwind CSS - Projeto de Curso
-![Tela de Login](https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg)
+
+![Imagem do projeto](https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg)
 
 ## Sobre o Projeto
 
@@ -28,5 +29,4 @@ Você tem duas formas de testar este projeto:
 
 Você também pode acessar uma versão online do projeto hospedada no GitHub Pages. Basta acessar o seguinte link:
 
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/TailwindCSS_Facebook-login/)
-
+[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Facebook-Login/)
