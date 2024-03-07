@@ -1,6 +1,7 @@
 # Tela de Login do Facebook com Tailwind CSS - Projeto de Curso
 
-![Imagem do projeto](https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg)
+![Imagem do projeto](https://github.com/Ruan-Moraes/Facebook-Login/assets/129057792/66ba8b92-cb21-4d2e-ac2a-dd7d2f043ef4)
+
 
 ## Sobre o Projeto
 
@@ -21,12 +22,10 @@ Você tem duas formas de testar este projeto:
 
 ### 1. No Seu Próprio Computador
 
-1. **Clonar o Projeto**: Comece clonando/download este repositório para sua máquina local.
+1. **Clonar o Projeto**: Comece clonando este repositório para a sua máquina local.
 
-2. **Executar o Arquivo HTML**: Após clonar o projeto, navegue até o diretório onde você o clonou. Abra o arquivo `index.html` no seu navegador.
+2. **Abrir o Arquivo HTML**: Após clonar o projeto, navegue até o diretório onde o clonou. Abra o arquivo `index.html` no seu navegador para visualizar a página em ação.
 
 ### 2. Através do GitHub Pages
 
-Você também pode acessar uma versão online do projeto hospedada no GitHub Pages. Basta acessar o seguinte link:
-
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Facebook-Login/)
+1. **Acessar o Projeto**: Acesse o projeto clicando [aqui](https://ruan-moraes.github.io/Facebook-Login/).
